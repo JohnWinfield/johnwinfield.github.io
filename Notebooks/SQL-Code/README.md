@@ -1,4 +1,4 @@
-# SQL-Code
+# SQL Resume Examples
 
 This folder is dedicated to display my advanced SQL knowledge.
 
