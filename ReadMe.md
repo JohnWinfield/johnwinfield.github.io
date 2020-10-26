@@ -4,7 +4,7 @@ This portfolio is a compilation of notebooks that I created for data analysis or
 
 ## Projects
 
-### Web Scraping The Onion's YouTube Channel
+### Web Scraping The Onion's YouTube Channel with Python
 
 The goal of this project was to web scrape The Onions youtube channel and analyze the data with two objectives: 
   - (1) Analyze the titles of the videos (Natural Language Processing).
