@@ -20,3 +20,10 @@ This folder is dedicated to displaying my advanced SQL knowledge. You will find 
   - (4) The SQL code that displays storing, manipulating, and retrieving data in databases.
 Please find the notebook [here](https://github.com/JohnWinfield/johnwinfield.github.io/tree/main/Notebooks/SQL-Code).
 
+### JSON Resume Examples
+
+This folder is dedicated to showcasing my high-level knowledge and application of interacting with JSON data. You will find two folders:
+- (1) JSON-web-dev folder
+- (2) JSon-to-Python-and-JSON-to-SQL folder
+Technologies utilized: SQL, Python, and web-dev tools (jquery, AJAX, JSON and PHP, servers, APIs). Please find the notebook [here](https://github.com/JohnWinfield/johnwinfield.github.io/tree/main/Notebooks/JSON).
+
