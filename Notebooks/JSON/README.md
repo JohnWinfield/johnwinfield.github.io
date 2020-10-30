@@ -9,7 +9,7 @@ to be minimal, portable, and textual –it is generally considered to be a light
 
 You will find two folders with the following items:
   - JSON-web-dev
-    - A video of the webpage working (running off localhost)
+    - A demo of the webpage (running off localhost)
     - The 'jquery-ajax-json.php' file that is used to display the data
     - The 'getpatient.php' file that runs an SQL query against the medicaldb, and returns the result in an HTML table
     - The 'getallpateints.php' file that runs an SQL query against the medicaldb, and returns the result in JSON format
