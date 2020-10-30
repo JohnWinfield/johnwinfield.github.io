@@ -8,7 +8,7 @@ JavaScript Object Notation (JSON) is a human-readable text-based data exchange f
 to be minimal, portable, and textual –it is generally considered to be a lightweight alternative to XML for data exchange.
 
 You will find two folders with the following items:
-  - JSON-web-dev
+  - [JSON-web-dev] (https://github.com/JohnWinfield/johnwinfield.github.io/tree/main/Notebooks/JSON/JSON-web-dev)
     - A demo of the webpage (running off localhost)
     - The 'jquery-ajax-json.php' file that is used to display the data
     - The 'getpatient.php' file that runs an SQL query against the medicaldb, and returns the result in an HTML table
