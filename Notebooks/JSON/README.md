@@ -14,7 +14,7 @@ You will find two folders with the following items:
     - The 'getpatient.php' file that runs an SQL query against the medicaldb, and returns the result in an HTML table
     - The 'getallpateints.php' file that runs an SQL query against the medicaldb, and returns the result in JSON format
     - The medicaldb file can be found under the SQL-Code Folder
-  - JSON-to-Python-and-JSON-to-SQL
+  - [JSON-to-Python-and-JSON-to-SQL](https://github.com/JohnWinfield/johnwinfield.github.io/tree/main/Notebooks/JSON/JSON-to-Python-and-JSON-to-SQL)
     - The 'JSONtoPython' file
     - The 'JSONtoSQL' file
     - The 'bookdf.csv' file
