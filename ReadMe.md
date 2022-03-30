@@ -1,4 +1,4 @@
-# Data Analyst/ Data Science Portfolio portfolio by Johnny Simmons
+# Data Analyst Portfolio by Johnny Simmons
 
 This portfolio is a compilation of notebooks that I created for data analysis or for the exploration of machine learning algorithms.
 
